@@ -1,4 +1,4 @@
-const getPercents = require('./getPercents');
+const getPercents = require('./__tests__/getPercents');
 
 describe('getPercents', () => {
   const percent10 = 10;
