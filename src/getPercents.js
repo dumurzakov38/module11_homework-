@@ -8,3 +8,4 @@ function getPercents(percent, number) {
   }
 
   module.exports = getPercents;
+
